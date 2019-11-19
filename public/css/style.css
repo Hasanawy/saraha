@@ -1,0 +1,84 @@
+
+.nav{
+  background-image: linear-gradient(139deg,#00ccc3 0,#7d2ae8 100%);
+  opacity: 0.8;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #f8fafc;
+}
+a{
+     color: #f8fafc;
+}
+a:hover{
+     color:#f8f9fae3;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+       color: #f8f9fae3;
+    
+}
+.navbar-light .navbar-brand{
+	color: #f8fafc;
+}
+
+
+.navbar-light .navbar-brand:hover{
+	color: #f8f9fae3;
+}
+.btn-primary {
+    color: #f8fafc;
+    background-color: #3490dc;
+    background-image: linear-gradient(139deg,#00ccc3 0,#7d2ae8 100%);
+    border-color: #3490dc;
+
+}
+.card-header{
+	color: #f8fafc;
+	background-image: linear-gradient(139deg,#00ccc3 0,#7d2ae8 100%);
+}
+.messages{
+    margin-top: 20px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.badge-primary{
+    background-image: linear-gradient(139deg,#00ccc3 0,#7d2ae8 100%);
+}
+.imagetext{
+    margin-top: 10px;
+}
+.bio{
+     border-style: solid;
+      border-color: #b5b5b5de;
+      border-width: 1px;
+      border-radius: 25px;      
+}
+.card-title{
+  font-size:13px; 
+   font-style: italic;
+}
+.navbar-brand {
+    font-size: 43px;
+    font-family: 'Satisfy', cursive;
+    padding: 0px;
+    line-height: 0; 
+}
+
+.mybtn{
+
+  font-size:25px;
+  border-radius:80px;
+  padding:20px;
+  opacity:.9;
+}
+.register{
+	margin-top:10px;
+	margin-left:350px;
+}
+.logo
+{
+   font-family: 'Satisfy', cursive;
+}
